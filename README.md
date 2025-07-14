@@ -1,4 +1,4 @@
-# Algo-programming-pt-1
+# 🎯Algo-programming-pt-1
 ## 📖 About This Repository  
 This repository contains Python-based lab assignments completed for the **“Algorithmization and Programming”** course at *Lviv Polytechnic National University (2023–2024)*, following **Variant №5**.  
 
@@ -68,7 +68,7 @@ Then view the related `docs/lab_3_assigment.md` file for assignment summary and 
 
 ## ⚠️ Licensing & Use  
 This repository is published for **educational purposes** and personal archiving.  
-Code and documentation created by **Artem Sokol**, with a focus on correctness, structure, and clear presentation.
+Code and documentation created by **Artem**, with a focus on correctness, structure, and clear presentation.
 
 Any reuse, redistribution, or adaptation should be done only with author’s permission.
 
